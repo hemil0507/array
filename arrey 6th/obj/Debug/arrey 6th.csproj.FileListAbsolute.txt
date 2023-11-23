@@ -1,0 +1,6 @@
+C:\Users\91882\Music\arrey 6th\arrey 6th\bin\Debug\arrey 6th.exe.config
+C:\Users\91882\Music\arrey 6th\arrey 6th\bin\Debug\arrey 6th.exe
+C:\Users\91882\Music\arrey 6th\arrey 6th\bin\Debug\arrey 6th.pdb
+C:\Users\91882\Music\arrey 6th\arrey 6th\obj\Debug\arrey 6th.csprojResolveAssemblyReference.cache
+C:\Users\91882\Music\arrey 6th\arrey 6th\obj\Debug\arrey 6th.exe
+C:\Users\91882\Music\arrey 6th\arrey 6th\obj\Debug\arrey 6th.pdb
